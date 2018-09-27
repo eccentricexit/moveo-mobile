@@ -1,6 +1,10 @@
 ## moveo | mobile app
 
-Use React Native.
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![git-flow friendly](https://img.shields.io/badge/git-flow-brightgreen.svg)](https://danielkummer.github.io/git-flow-cheatsheet/index.html)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+> React Native
 
 ![prototype](drafts/mobile.png)
 

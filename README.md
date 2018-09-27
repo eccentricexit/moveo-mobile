@@ -75,7 +75,7 @@ Example:
                 longitude: -0.2566941,
                 time: 112351231,
                 localPicPath:'/path/to/picture1.jpg,
-            }            
+            }
         }
     }
 }
@@ -83,6 +83,7 @@ Example:
 
 A trip is finished if it both `start` and `finish` are filled. Example:
 
+```
 'joao.silva':{
     trips:{
         '339cdd3b-1746-479d-ac22-4b40a6e5c4a4':{
@@ -98,7 +99,7 @@ A trip is finished if it both `start` and `finish` are filled. Example:
                 longitude: -0.2562231,
                 time: 112355423,
                 localPicPath:'/path/to/picture2.jpg,
-            }   
+            }
         }
     }
 }
